@@ -14,19 +14,25 @@
 
 ## 1월 15일
 
-- SRM478 KiwiJuiceEasy
-- SRM494 InterestingParty
-- SRM480 Cryptography
+- KiwiJuiceEasy
+- InterestingParty
+- Cryptography
 
 ## 1월 23일
 
-- SRM150 InterestingDigits
-- SRM428 ThePalindrome
-- SRM436 FriendScore
+- InterestingDigits
+- ThePalindrome
+- FriendScore
 
 ## 1월 30일
 
-- SRM425 CrazyBot
-- SRM453.5 MazeMaker
-- SRM484 NumberMagicEasy
+- CrazyBot
+- MazeMaker
+- NumberMagicEasy
+
+## 2월 6일
+
+- CorporationSalary
+- BadNeighbors
+- ChessMetric
 
