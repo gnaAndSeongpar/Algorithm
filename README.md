@@ -41,3 +41,8 @@
 - ColorfulBoxesAndBalls
 - HandsShaking
 
+## 2월 20일
+
+- BatchSystem
+- StockHistory
+
